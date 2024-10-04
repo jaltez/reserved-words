@@ -19,6 +19,7 @@ amplitude
 anduril
 anguilla
 anz
+aol
 appian
 apple
 arm
@@ -64,6 +65,7 @@ calendly
 canva
 carfax
 caterpillar
+centurylink
 chargebee
 chipotle
 chrysler
@@ -139,6 +141,7 @@ gitlab
 glassdoor
 globalfoundries
 glovo
+gmail
 gofundme
 google
 googlecloud
@@ -158,6 +161,7 @@ homedepot
 honeywell
 hopin
 hotjar
+hotmail
 hp
 huawei
 hubspot
@@ -231,7 +235,6 @@ nasa
 natgeo
 naver
 nestle
-nestle
 netflix
 netlify
 newrelic
@@ -247,6 +250,7 @@ octopusdeploy
 olx
 opa
 oracle
+outlook
 outreach
 panasonic
 patreon
@@ -284,6 +288,7 @@ rippling
 roche
 rollsroyce
 ryanair
+s3
 salesflare
 salesforce
 salesloft
@@ -386,6 +391,7 @@ x
 xero
 xiaomi
 xmind
+yahoo
 yale
 yandex
 yelp
